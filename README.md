@@ -20,7 +20,7 @@ Program the Pico W
 
 First update the firmware of the Pi Pico w https://a.co/d/6snHIRc
 Download and install Thonny https://thonny.org/
-using thonny Upload umail.py to the Pico
+using thonny Upload umail.py to the Pico https://github.com/shawwwn/uMail/blob/master/umail.py
 open main.py make changes and upload to Pico
 Lines 17 to 18 change your SSID, and Wifi password. make sure to keep it between the ` `
 lines 20 to 24 enter your smtp server username password
